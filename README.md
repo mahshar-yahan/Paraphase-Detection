@@ -1,4 +1,4 @@
-# Bangla Paraphrase Detection using BanglaBERT + LSTM
+# ParaBangla: Bangla Paraphrase Detection using BanglaBERT + LSTM
 
 This repository contains the implementation of a **paraphrase detection system** for Bangla text. The system combines **BanglaBERT** and **LSTM** to classify whether two Bangla sentences are paraphrases of each other. The model uses the **BnPC paraphrased dataset** and achieves an accuracy of **84.56%** on the test dataset.
 
