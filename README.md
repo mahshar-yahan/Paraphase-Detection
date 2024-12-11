@@ -16,9 +16,3 @@ Paraphrase detection is the task of identifying if two sentences express the sam
 - **Bangla Language Support**: Designed specifically for Bangla text, but the architecture can be adapted to other languages.
 - **High Accuracy**: The model achieved an accuracy of 84.56% on the test dataset.
 
-## Requirements
-
-Before running the code, make sure to install all necessary packages by running:
-
-```bash
-pip install -r requirements.txt
